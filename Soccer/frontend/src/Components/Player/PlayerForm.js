@@ -20,7 +20,8 @@ class PlayerForm extends React.Component {
     }
 
     render() { 
-        return ( 
+        return (
+            //frontend for adding new players 
             <div className="row">
                 <h1 className="center">Add a new player</h1>
                 <form className="col s12" onSubmit={this.submitPlayer.bind(this)}>
