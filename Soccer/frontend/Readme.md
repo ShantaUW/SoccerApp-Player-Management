@@ -1,4 +1,4 @@
-# Inside Backend There are 3 main Folders
+# Inside Frontend There are 3 main Folders
 ## public
 Put jpeg file and the index.html
 ## src
