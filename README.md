@@ -1,5 +1,5 @@
 # SoccerApp
-Soccer Management System
+Players Management System
 # Stacks: MERN (Mongo, Express, React, Node)
 Backend and Frontend have in the different folder. Also, different components are created in different folders as well.
 # Usage of this app
