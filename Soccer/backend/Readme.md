@@ -1,6 +1,6 @@
 # Inside Backend There are 4 main Folders
 ## controllers 
-Created controlles
+Created controllers
 ## models
 Created Schema for MongoDB
 ## routes
